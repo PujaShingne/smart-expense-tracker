@@ -1,0 +1,11 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+expenses.db
+app_backup.py
+
+.env
+.streamlit/secrets.toml
